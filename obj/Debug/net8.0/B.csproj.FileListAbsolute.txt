@@ -1,0 +1,14 @@
+C:\vs code\dop_zadania\B\bin\Debug\net8.0\B.exe
+C:\vs code\dop_zadania\B\bin\Debug\net8.0\B.deps.json
+C:\vs code\dop_zadania\B\bin\Debug\net8.0\B.runtimeconfig.json
+C:\vs code\dop_zadania\B\bin\Debug\net8.0\B.dll
+C:\vs code\dop_zadania\B\bin\Debug\net8.0\B.pdb
+C:\vs code\dop_zadania\B\obj\Debug\net8.0\B.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\dop_zadania\B\obj\Debug\net8.0\B.AssemblyInfoInputs.cache
+C:\vs code\dop_zadania\B\obj\Debug\net8.0\B.AssemblyInfo.cs
+C:\vs code\dop_zadania\B\obj\Debug\net8.0\B.csproj.CoreCompileInputs.cache
+C:\vs code\dop_zadania\B\obj\Debug\net8.0\B.dll
+C:\vs code\dop_zadania\B\obj\Debug\net8.0\refint\B.dll
+C:\vs code\dop_zadania\B\obj\Debug\net8.0\B.pdb
+C:\vs code\dop_zadania\B\obj\Debug\net8.0\B.genruntimeconfig.cache
+C:\vs code\dop_zadania\B\obj\Debug\net8.0\ref\B.dll
